@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://gist.github.com/jessycacosta/1e0755ca1f889eaddc8347ea96c13ded.js">
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/jessycacosta/1af68f2112fe2a4f2f0c35170425e55f/raw/fc9e2bff5aa323fe13187aaf668353b2182a59c6/githubcard.svg">
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Jessyca Costa</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jessycacosta&color=yellow" alt="Profile views" /> </p>
 
