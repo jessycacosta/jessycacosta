@@ -29,12 +29,6 @@
 ## Contact
 
 <p align="left" style="background:yellow">
-<a href="https://codepen.io/Jessyca-Costa" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-jessycacosta-05122A?style=flat&logo=codepen" alt="codepen"/>
-</a>
-<a href="https://twitter.com/Jessyca_Minas" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-jessycacosta-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
 <a href="https://linkedin.com/in/jessycacostapt" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-jessycacosta-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
