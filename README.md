@@ -1,8 +1,8 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/jessycacosta/1af68f2112fe2a4f2f0c35170425e55f/raw/fc9e2bff5aa323fe13187aaf668353b2182a59c6/githubcard.svg">
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/jessycacosta/3d16740190a763aa4ab1d76a1245eb49/raw/cb1bef4d35b35b3bc5568487b5d7117c86e514cb/card.svg">
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Jessyca Costa</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jessycacosta&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 IT Student at 42 Porto
+- ![](https://img.shields.io/badge/--000?style=flat&logo=42)&nbsp; Student at 42 Porto
 
 - 🔭 Never Stop Learning
 
@@ -10,14 +10,12 @@
 
 <br><br>
 ## 🛠 &nbsp;Tech Stack
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
